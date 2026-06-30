@@ -26,7 +26,8 @@ Create a shared Google document named `team_XX_contract` where `XX` is your team
   - What should happen if a team member does not follow through on a commitment?
   - How will you handle different work habits of individual team members?
   - What should happen if a team member decides that a low grade is acceptable?
-  - You may find it helpful to read the file Coping with Hitchhikers and Couch Potatoes on Teams.pdf
+  - You may find it helpful to read the file [Coping with Hitchhikers and Couch Potatoes on Teams](Coping_with_Hitchhikers_and_Couch_Potatoes_on_Teams.pdf)
+  - You may find it helpful to read the page [Advice for Teamwork](Advice_for_Teamwork.md)
 - The Aggie Code of Honor: "An Aggie does not lie, cheat or steal or tolerate those who do."
 
 Each team member should sign (type) their name ***from their own account*** at the bottom of the document to indicate they agree with the contents of your team contract. The activity log will be checked to ensure each team member contributed. Any future team issues that cannot be resolved by your team using your team contract will be decided by your instructor.
